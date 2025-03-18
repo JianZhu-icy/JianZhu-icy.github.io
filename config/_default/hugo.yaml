@@ -6,7 +6,7 @@
 # Website name
 title: Jian Zhu's Website
 # Website URL
-baseURL: 'https://jianzhu-icy.github.io/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
